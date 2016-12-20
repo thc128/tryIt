@@ -1,2 +1,2 @@
 # tryIt
-try to import 
+try to create a tool for manage your money 
